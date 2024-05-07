@@ -1,5 +1,7 @@
 # Crossplane tutorial
 
+This line is trash
+
 ## Video tutorial series
 
 Full playlist: <https://youtube.com/playlist?list=PLyicRj904Z99i8U5JaNW5X3AyBvfQz-16&si=f_mVV9GH6j5uhzaf>
